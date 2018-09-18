@@ -1,4 +1,4 @@
-cha= input("enter alphabet: ")
+cha= input("Enter Alphabet: ")
 if(cha.isalpha()==1):
    print("Alphabet")
 else:
