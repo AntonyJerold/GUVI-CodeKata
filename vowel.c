@@ -1,8 +1,8 @@
-cha= input("enter alphabet: ")
+cha= input("Enter Alphabet: ")
 if(cha.isalpha()==1):
     if cha in ('a', 'e', 'i', 'o', 'u'):
-        print("%s is a vowel." % cha)
+        print("Vowel")
     else:
-        print("%s is a consonant." % cha)
+        print("Consonant" )
 else:
     print("Ivalid")
