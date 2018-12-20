@@ -1,3 +1,6 @@
 n=int(input("Enter The Number:"))
-for i in range (n):
-  print("Hello")
+if(n>0):
+  for i in range (n):
+    print("Hello")
+else:
+  print("Invalid Input")
