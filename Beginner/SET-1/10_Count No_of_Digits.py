@@ -1,5 +1,5 @@
 count = 0
-num=int(input("Enter The Number:"));
+num=int(input("Enter The Number:"))
 temp=num
 while(temp != 0):
     temp=(int)(temp/10)
