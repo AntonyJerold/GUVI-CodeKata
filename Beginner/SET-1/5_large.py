@@ -1,9 +1,9 @@
-a= int(input("Enter Number A: "))
-b= int(input("Enter Number B: "))
-c= int(input("Enter Number C: "))
+a= int(input("Enter Number A: "));
+b= int(input("Enter Number B: "));
+c= int(input("Enter Number C: "));
 if(a>b)&(a>c):
-   print(a)
+   print(a);
 if(b>a)&(b>c):
-    print(b)
+    print(b);
 else:
-    print(c)
+    print(c);
