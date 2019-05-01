@@ -1,8 +1,7 @@
-# numtype.py
-num = int(input("Input: "))
+num = int(input("Input: "));
 if num > 0:
-   print("\nPositive")
+   print("\nPositive");
 elif num == 0:
-   print("\nZero")
+   print("\nZero");
 else:
-   print("\nNegative")
+   print("\nNegative");
