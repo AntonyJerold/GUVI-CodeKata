@@ -1,10 +1,10 @@
-num=int(input("Ente the number:"))
+num=int(input("Ente the number:"));
 if(num>0):
     
             if(num%2==0):
-                     print("\nEven")
+                     print("\nEven");
             else:
-        	     print("\nOdd")
+        	     print("\nOdd");
     
 else:
-        print("\nInvalid")
+        print("\nInvalid");
