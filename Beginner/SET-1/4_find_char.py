@@ -1,5 +1,5 @@
-cha= input("Enter Alphabet: ")
+cha= input("Enter Alphabet: ");
 if(cha.isalpha()==1):
-   print("Alphabet")
+   print("Alphabet");
 else:
-    print("No")
+    print("No");
